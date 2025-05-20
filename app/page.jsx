@@ -7,6 +7,7 @@ import NewsLetter from "@/components/NewsLetter";
 import FeaturedProduct from "@/components/FeaturedProduct";
 import Navbar from "@/components/Navbar";
 import Footer from "@/components/Footer";
+import { SignIn } from "@clerk/nextjs";
 
 const Home = () => {
   return (
